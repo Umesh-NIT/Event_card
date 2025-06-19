@@ -1,3 +1,3 @@
-<<<<<<< HEAD
+
 # Event_card
 
